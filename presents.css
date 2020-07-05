@@ -18,32 +18,13 @@
         text-align:center;
         margin:0px;
         padding:10px 0px;
-        color:burlywood;
+        color:rgb(184, 87, 8);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
-    
-    h2{ 
-    color: rgba(186, 167, 255);
-    font-family: 'Franklin Gothic Medium';
-    font-size: 28px;
-    font-style: italic;
-    text-align: left;
-    margin-left: 85px;
-    }
-
-    h3{ 
-    color: rgba(128, 128, 128, 0.801);
-    font-family: 'Franklin Gothic Medium';
-    font-size: 24px;
-    font-style: italic;
-    padding-top: 40px;
-    text-align: center;
-    margin-left: 50px;
-    }
 
     body{
-    background-image: url('../images/fox.png');
+    background-image: url('../images/ballon.png');
     background-repeat: no-repeat;
     background-size: 800px;
     background-position: right;
@@ -51,8 +32,8 @@
     }
 
    
-    h4{
-    color:rgb(186, 167, 255);
+    .footer{
+    color:rgb(173, 117, 65);
     font-family: 'Fantasy';
     font-size: 55px;
     font-style: italic;
@@ -65,7 +46,7 @@
     text-align: right;
     color: rgb(138, 99, 48);
     margin-right: 100px;
-    }
+}
 }
  
 
@@ -76,47 +57,30 @@
         text-align:center;
         margin:0px;
         padding:10px 0px;
-        color:burlywood;
+        color:rgb(184, 87, 8);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
 
-    h2{ 
-    color: rgba(128, 128, 128, 0.801);
-    font-family: 'Franklin Gothic Medium';
-    font-size: 22px;
-    font-style: italic;
-    padding-top: 150px;
-    margin: 0;
-    text-align: center;
-    }
 
-    h3{ 
-    color: rgba(128, 128, 128, 0.801);
-    font-family: 'Franklin Gothic Medium';
-    font-size: 18px;
-    font-style: italic;
-    padding-top: 20px;
-    margin: 0;
-    text-align: center;
-    }
-
-    h4{
-    color:rgb(186, 167, 255);
+    .footer{
+    color: rgb(173, 117, 65);
     font-family: 'Fantasy';
-    font-size: 25px;
+    font-size: 17px;
     font-style: italic;
-    margin-top: 180px;
-    margin-left: 30px ;
-    text-align: left;
+    margin-top: 160px;
+    margin-right: 45px;
+    margin-left: 230px;
+    text-align: right;
+
     } 
 
   body{
-    margin: 30‰;
-    background-image: url('../images/fox.png');
+    margin: 0‰;
+    background-image: url('../images/ballon.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: right;
     background-position-y: top;
     }
 
@@ -131,49 +95,31 @@
     h1{
         font-size: 40px;
         text-align:center;
-        margin:0px;
+        margin:15px;
         padding:10px 0px;
-        color:burlywood;
+        color:rgb(184, 87, 8);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
-    h2{ 
-    color: rgba(128, 128, 128, 0.801);
-    font-family: 'Franklin Gothic Medium';
-    font-size: 18px;
-    font-style: italic;
-    padding-top: 65px;
-    margin: 0;
-    text-align: center;
-    }
-
-    h3{ 
-    color: rgba(128, 128, 128, 0.801);
-    font-family: 'Franklin Gothic Medium';
-    font-size: 14px;
-    font-style: italic;
-    padding-top: 8px;
-    margin: 0;
-    text-align: center;
-    }
 
     body{
-    margin: 30‰;
-    background-image: url('../images/fox.png');
+    margin: 0‰;
+    background-image: url('../images/ballon.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: right;
     background-position-y: top;
     }
     
-    h4{
-    color:rgb(186, 167, 255);
+    .footer{
+    color:rgb(173, 117, 65);
     font-family: 'Fantasy';
-    font-size: 25px;
+    font-size: 15px;
     font-style: italic;
-    margin-top: 180px;
-    margin-left: 30px ;
-    text-align: left;
+    margin-top: 120px;
+    margin-right: 15px;
+    margin-left: 160px;
+    text-align: right;
     } 
 
     .dropdown{

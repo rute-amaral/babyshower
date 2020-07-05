@@ -18,28 +18,30 @@
         text-align:center;
         margin:0px;
         padding:10px 0px;
-        color:burlywood;
+        color:rgb(127, 109, 155);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
     
-    h2{ 
-    color: rgba(186, 167, 255);
+h2{ 
+    color: rgb(101, 88, 114);
     font-family: 'Franklin Gothic Medium';
-    font-size: 28px;
+    font-size: 26px;
     font-style: italic;
+    padding-top: 60px;
+    margin: 0;
     text-align: left;
-    margin-left: 85px;
+    margin-left: 20px;
     }
 
     h3{ 
-    color: rgba(128, 128, 128, 0.801);
+    color: rgb(144, 116, 148);
     font-family: 'Franklin Gothic Medium';
-    font-size: 24px;
+    font-size: 21px;
     font-style: italic;
-    padding-top: 40px;
+    padding-top: 170px;
+    margin: 0;
     text-align: center;
-    margin-left: 50px;
     }
 
     body{
@@ -50,22 +52,18 @@
     background-position-y: top;
     }
 
-   
-    h4{
-    color:rgb(186, 167, 255);
-    font-family: 'Fantasy';
-    font-size: 55px;
-    font-style: italic;
-    margin-top: 100px;
-    margin-left: 110px ;
-    text-align: left;
-    } 
-
     .dropdown{
     text-align: right;
     color: rgb(138, 99, 48);
-    margin-righ: 100px;
-}
+    margin-right: 100px;
+    }
+
+    li{
+    text-align: left;
+    margin-left: 20px;
+    color: burlywood;
+    padding-top: 10px;
+    }
 }
  
 
@@ -76,47 +74,39 @@
         text-align:center;
         margin:0px;
         padding:10px 0px;
-        color:burlywood;
+        color:rgb(127, 109, 155);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
 
     h2{ 
-    color: rgba(128, 128, 128, 0.801);
+    color: rgb(101, 88, 114);
     font-family: 'Franklin Gothic Medium';
-    font-size: 22px;
+    font-size: 19px;
     font-style: italic;
-    padding-top: 150px;
+    padding-top: 60px;
     margin: 0;
-    text-align: center;
+    text-align: right;
+    margin-right: 20px;
     }
 
     h3{ 
-    color: rgba(128, 128, 128, 0.801);
+    color: rgb(144, 116, 148);
     font-family: 'Franklin Gothic Medium';
     font-size: 18px;
     font-style: italic;
-    padding-top: 20px;
+    padding-top: 250px;
     margin: 0;
     text-align: center;
     }
 
-    h4{
-    color:rgb(186, 167, 255);
-    font-family: 'Fantasy';
-    font-size: 25px;
-    font-style: italic;
-    margin-top: 180px;
-    margin-left: 30px ;
-    text-align: left;
-    } 
 
   body{
     margin: 30‰;
     background-image: url('../images/girafa.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: right;
     background-position-y: top;
     }
 
@@ -124,7 +114,14 @@
     text-align: right;
     color: rgb(138, 99, 48);
     margin: 20px;
-}
+    }
+
+    li{
+    text-align: right;
+    margin-right: 20px;
+    color: burlywood;
+    padding-top: 10px;
+    }
 }
  
 @media only screen and (max-width: 400px) {
@@ -133,27 +130,30 @@
         text-align:center;
         margin:0px;
         padding:10px 0px;
-        color:burlywood;
+        color:rgb(127, 109, 155);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
+    
     h2{ 
-    color: rgba(128, 128, 128, 0.801);
+    color: rgb(101, 88, 114);
     font-family: 'Franklin Gothic Medium';
-    font-size: 18px;
+    font-size: 16px;
     font-style: italic;
-    padding-top: 65px;
+    padding-top: 15px;
     margin: 0;
-    text-align: center;
+    text-align: right;
+    margin-right: 20px;
     }
 
     h3{ 
-    color: rgba(128, 128, 128, 0.801);
+    color: rgb(186, 167, 255);
     font-family: 'Franklin Gothic Medium';
-    font-size: 14px;
+    font-size: 15px;
     font-style: italic;
-    padding-top: 8px;
-    margin: 0;
+    padding-top: 160px;
+    margin-left: 70px;
+    margin-right: 70px;
     text-align: center;
     }
 
@@ -161,25 +161,23 @@
     margin: 30‰;
     background-image: url('../images/girafa.png');
     background-repeat: no-repeat;
-    background-size: cover;
-
+    background-size: contain;
+    background-position: center;
     }
-    
-    h4{
-    color:rgb(186, 167, 255);
-    font-family: 'Fantasy';
-    font-size: 25px;
-    font-style: italic;
-    margin-top: 180px;
-    margin-left: 30px ;
-    text-align: left;
-    } 
 
     .dropdown{
     text-align: right;
     color: rgb(138, 99, 48);
     margin: 10px;
-}
+    }
+
+    li{
+    text-align: right;
+    margin-right: 20px;
+    color: burlywood;
+    padding-top: 10px;
+    }
+
 }
 
 .btn{
@@ -198,3 +196,4 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
 }
+
