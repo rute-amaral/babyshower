@@ -26,12 +26,11 @@
 h2{ 
     color: rgb(101, 88, 114);
     font-family: 'Franklin Gothic Medium';
-    font-size: 26px;
+    font-size: 23px;
     font-style: italic;
     padding-top: 60px;
-    margin: 0;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 80px;
     }
 
     h3{ 
@@ -60,7 +59,7 @@ h2{
 
     li{
     text-align: left;
-    margin-left: 20px;
+    margin-left: 60px;
     color: burlywood;
     padding-top: 10px;
     }
