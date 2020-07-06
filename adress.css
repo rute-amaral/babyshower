@@ -38,16 +38,18 @@ h2{
     font-family: 'Franklin Gothic Medium';
     font-size: 21px;
     font-style: italic;
-    padding-top: 160px;
+    padding-top: 140px;
     margin: 0;
-    text-align: center;
+    text-align: right;
+    margin-left: 900px;
+    margin-right: 60px;
     }
 
     body{
     background-image: url('../images/ballon.png');
     background-repeat: no-repeat;
     background-size: 800px;
-    background-position: right;
+    background-position: center;
     background-position-y: top;
     }
 
@@ -179,6 +181,9 @@ h2{
 
 }
 
+ul{
+    list-style-type: none;
+}
 .btn{
     text-align: right;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
