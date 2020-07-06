@@ -79,11 +79,11 @@ h3{
     font-family: 'Franklin Gothic Medium';
     font-size: 22px;
     font-style: italic;
-    padding-top: 70px;
+    padding-top: 20px;
     margin: 0;
-    text-align: right;
-    margin-left: 230px;
-    margin-right: 45px;
+    text-align: left;
+    margin-left: 40px;
+    margin-right: 230px;
     }
 
     .footer{
@@ -91,10 +91,8 @@ h3{
     font-family: 'Fantasy';
     font-size: 17px;
     font-style: italic;
-    margin-top: 160px;
-    margin-right: 45px;
-    margin-left: 230px;
-    text-align: right;
+    margin-top: 270px;
+    text-align: center;
 
     } 
 
@@ -102,9 +100,9 @@ h3{
     margin: 0‰;
     background-image: url('../images/turtel.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: right;
-    background-position-y: top;
+    background-position-y: bottom;
     }
 
     .dropdown{

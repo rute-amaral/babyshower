@@ -18,13 +18,13 @@
         text-align:center;
         margin:0px;
         padding:10px 0px;
-        color:rgb(127, 109, 155);
+        color:rgb(148, 83, 9);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
     
 h2{ 
-    color: rgb(101, 88, 114);
+    color: rgb(148, 83, 9);
     font-family: 'Franklin Gothic Medium';
     font-size: 23px;
     font-style: italic;
@@ -34,17 +34,17 @@ h2{
     }
 
     h3{ 
-    color: rgb(144, 116, 148);
+    color: rgb(148, 83, 9);
     font-family: 'Franklin Gothic Medium';
     font-size: 21px;
     font-style: italic;
-    padding-top: 170px;
+    padding-top: 160px;
     margin: 0;
     text-align: center;
     }
 
     body{
-    background-image: url('../images/girafa.png');
+    background-image: url('../images/ballon.png');
     background-repeat: no-repeat;
     background-size: 800px;
     background-position: right;
@@ -72,13 +72,13 @@ h2{
         text-align:center;
         margin:0px;
         padding:10px 0px;
-        color:rgb(127, 109, 155);
+        color:rgb(148, 83, 9);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
 
     h2{ 
-    color: rgb(101, 88, 114);
+    color: rgb(148, 83, 9);
     font-family: 'Franklin Gothic Medium';
     font-size: 19px;
     font-style: italic;
@@ -89,22 +89,23 @@ h2{
     }
 
     h3{ 
-    color: rgb(144, 116, 148);
+    color: rgb(148, 83, 9);
     font-family: 'Franklin Gothic Medium';
     font-size: 18px;
     font-style: italic;
-    padding-top: 250px;
-    margin: 0;
-    text-align: center;
+    padding-top: 140px;
+    margin-right: 230px;
+    margin-left: 20px;
+    text-align: left;
     }
 
 
   body{
     margin: 30‰;
-    background-image: url('../images/girafa.png');
+    background-image: url('../images/ballon.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right;
+    background-position: left;
     background-position-y: top;
     }
 
@@ -128,7 +129,7 @@ h2{
         text-align:center;
         margin:0px;
         padding:10px 0px;
-        color:rgb(127, 109, 155);
+        color:rgb(148, 83, 9);
         font-style: italic;
         font-family: 'Franklin Gothic Medium';
     }
@@ -145,22 +146,22 @@ h2{
     }
 
     h3{ 
-    color: rgb(186, 167, 255);
+    color: rgb(148, 83, 9);
     font-family: 'Franklin Gothic Medium';
     font-size: 15px;
     font-style: italic;
-    padding-top: 130px;
-    margin-left: 70px;
-    margin-right: 70px;
-    text-align: center;
+    padding-top: 60px;
+    margin-left: 30px;
+    margin-right: 130px;
+    text-align: left;
     }
 
     body{
     margin: 30‰;
-    background-image: url('../images/girafa.png');
+    background-image: url('../images/ballon.png');
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
+    background-size: 650px;
+    background-position: left;
     }
 
     .dropdown{
