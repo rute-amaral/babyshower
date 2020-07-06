@@ -57,11 +57,10 @@ h2{
     margin-right: 100px;
     }
 
-    li{
+    a{
+    color: rgb(158, 125, 65);
     text-align: left;
-    margin-left: 60px;
-    color: burlywood;
-    padding-top: 10px;
+    padding-top: 0px;
     }
 }
  
@@ -115,13 +114,13 @@ h2{
     margin: 20px;
     }
 
-    li{
-    text-align: right;
-    margin-right: 20px;
-    color: burlywood;
-    padding-top: 10px;
+    a{
+    color: rgb(158, 125, 65);
+    text-align: left;
+    padding-top: 0px;
     }
 }
+
  
 @media only screen and (max-width: 400px) {
     h1{
@@ -150,7 +149,7 @@ h2{
     font-family: 'Franklin Gothic Medium';
     font-size: 15px;
     font-style: italic;
-    padding-top: 160px;
+    padding-top: 130px;
     margin-left: 70px;
     margin-right: 70px;
     text-align: center;
@@ -170,11 +169,11 @@ h2{
     margin: 10px;
     }
 
-    li{
-    text-align: right;
-    margin-right: 20px;
-    color: burlywood;
-    padding-top: 10px;
+    
+    a{
+    color: rgb(158, 125, 65);
+    text-align: left;
+    padding-top: 0px;
     }
 
 }
