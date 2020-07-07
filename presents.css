@@ -37,7 +37,7 @@
     font-family: 'Fantasy';
     font-size: 24px;
     font-style: italic;
-    padding-top: 140px;
+    padding-top: 100px;
     text-align: left;
     margin-left: 50px;
     margin-right: 1000px
@@ -61,7 +61,7 @@
         padding:10px 0px;
         color:rgb(133, 192, 56);
         font-style: italic;
-        font-family: 'Franklin Gothic Medium';
+        font-family:'Franklin Gothic Medium';
     }
 
 
@@ -70,9 +70,9 @@
     font-family: 'Fantasy';
     font-size: 17px;
     font-style: italic;
-    margin-top: 220px;
+    margin-top: 160px;
     margin-right: 45px;
-    margin-left: 230px;
+    margin-left: 180px;
     text-align: right;
 
     } 
@@ -119,7 +119,7 @@
     font-family: 'Fantasy';
     font-size: 15px;
     font-style: italic;
-    margin-top: 80px;
+    margin-top: 105px;
     margin-right: 15px;
     margin-left: 180px;
     text-align: right;
@@ -145,7 +145,7 @@
 }
 
 .dropdown-menu{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
 }
 
