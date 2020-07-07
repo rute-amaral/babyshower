@@ -46,8 +46,9 @@
     .dropdown{
     text-align: right;
     color: rgb(138, 99, 48);
-    margin-right: 100px;
-}
+    margin-right: 100px;   
+    }
+
 }
  
 
@@ -89,7 +90,8 @@
     text-align: right;
     color: rgb(138, 99, 48);
     margin: 20px;
-}
+    }
+    
 }
  
 @media only screen and (max-width: 400px) {
@@ -127,7 +129,8 @@
     text-align: right;
     color: rgb(138, 99, 48);
     margin: 10px;
-}
+    }
+
 }
 
 .btn{
@@ -141,20 +144,19 @@
     color: rgb(138, 99, 48);
 }
 
-
 .dropdown-menu{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
     font-style: italic;
 }
+
 
 ul{
     list-style-type: none;
-
 }
 
-a{
-    font-family:  fantasy;
+li a{
     font-size: 24px;
-    font-style: italic;
     color: lightseagreen;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium';
 }
