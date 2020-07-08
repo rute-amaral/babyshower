@@ -43,7 +43,7 @@
     }
 
     body{
-    background-image: url('../images/fox.png');
+    background-image: url('../images/fox.PNG');
     background-repeat: no-repeat;
     background-size: 800px;
     background-position: right;
@@ -113,7 +113,7 @@
 
   body{
     margin: 30‰;
-    background-image: url('../images/fox.png');
+    background-image: url('../images/fox.PNG');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
@@ -159,7 +159,7 @@
 
     body{
     margin: 30‰;
-    background-image: url('../images/fox.png');
+    background-image: url('../images/fox.PNG');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
