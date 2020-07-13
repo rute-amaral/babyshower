@@ -36,7 +36,7 @@
     }
 
     body{
-    background-image: url('../images/turtle.png');
+    background-image: url('images/turtle.png');
     background-repeat: no-repeat;
     background-size: 700px;
     background-position: right;
@@ -98,7 +98,7 @@ h3{
 
   body{
     margin: 0‰;
-    background-image: url('../images/turtel.png');
+    background-image: url('images/turtel.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;

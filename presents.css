@@ -24,7 +24,7 @@
     }
 
     body{
-    background-image: url('../images/heli.png');
+    background-image: url('images/heli.png');
     background-repeat: no-repeat;
     background-size: 1200px;
     background-position: center;
@@ -79,7 +79,7 @@
 
   body{
     margin: 0‰;
-    background-image: url('../images/heli.png');
+    background-image: url('images/heli.png');
     background-repeat: no-repeat;
     background-size: 900px;
     background-position: center;
@@ -107,7 +107,7 @@
 
     body{
     margin: 0‰;
-    background-image: url('../images/heli.png');
+    background-image: url('images/heli.png');
     background-repeat: no-repeat;
     background-size: 700px;
     background-position: center;
